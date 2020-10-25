@@ -1,0 +1,154 @@
+"highSexDrive" = "Libido Élevée";
+"lowSexDrive" = "Faible Libido";
+"withDrawal" = "Retrait";
+"sex" = "Sexe";
+"noSex" = "Aucun Rapport Sexuel";
+"unprotected" = "Non Protégé";
+"protected" = "Protégé";
+"cervicalMucus" = "Glaire Cervicale（GC）";
+"condition" = "Condition";
+"dL_Light" = "Léger";
+"dL_Medium" = "Moyen";
+"dL_Heavy" = "Lourd";
+"cervicalPositionFerning" = "Position & Fouille Cervical";
+"dL_Height" = "Hauteur";
+"dL_Low" = "Faible";
+"dL_High" = "Haut";
+"openness" = "Ouverture";
+"closed" = "Fermé";
+"slightlyOpen" = "Légèrement Ouvert";
+"open" = "Ouvrez";
+"texture" = "Texture";
+"soft" = "Soft";
+"medium" = "Moyen";
+"firm" = "Raide";
+"aidedInsemination" = "Insémination Assistée";
+"ultrasound" = "Échographie";
+"sleep" = "Sommeil";
+"less6Hours" = "＜6 heures";
+"between6And8Hours" = "6~8 heures";
+"between8And10Hours" = "8~10 heures";
+"moreThan10Hours" = "＞10 heures";
+"kG" = "KG";
+"lB" = "LB";
+"kgs" = "kgs";
+"lbs" = "lbs";
+"others" = "Autres";
+"travel" = "Voyage";
+"stress" = "Pression";
+"injury" = "Blessure";
+"illness" = "Maladie";
+"athleticEvent" = "Événement Sportif";
+"alcohol" = "Alcool";
+"physicalActivity" = "Exercice Physique";
+"cardio" = "L'aérobic";
+"weightLifting" = "L'haltérophilie";
+"spin" = "Rotation";
+"yoga" = "Yoga";
+"stretching" = "Étirement";
+"breathwork" = "Breathwork";
+"durationOfExercise" = "Durée de l'exercice";
+"between0And15Mins" = "0-15 minutes";
+"moreThan60Mins" = "> 60 minutes";
+"otherPhysiologicalSignals" = "Autres Signaux Physiologiques";
+"prenatal" = "Prénatal";
+"fishOil" = "Huile de Poisson";
+"probiotic" = "Probiotique";
+"symptoms" = "Symptôme";
+"common" = "Commun";
+"cravings" = "Les Envies";
+"appetiteDecreased" = "Perte d'appétit";
+"appetiteIncreased" = "Augmentation de l'appétit";
+"migraine" = "Migraine";
+"body" = "Corps";
+"pelvicPain" = "Douleur Pelvienne";
+"sick" = "Malade";
+"vaginalPain" = "Douleurs Vaginales";
+"ovulationPain" = "Douleur de l'ovulation";
+"painDuringSex" = "Douleur Pendant les Rapports Sexuels";
+"belly" = "Ventre";
+"gassy" = "Flatulente";
+"frequentUrination" = "Mictions Fréquentes";
+"nO" = "NON";
+"mild" = "Doux";
+"moderate" = "Modéré";
+"severe" = "Sévère";
+"fertilityMedication" = "Médicaments contre l'infertilité";
+"metformin" = "Metformine";
+"letrozole_Femara" = "Létrozole/Fimara";
+"clomipheneCitrate_Clomid" = "Citrate de Clomifène/Clomid";
+"babyAspirin" = "Aspirine pour Bébés";
+"prometrium_BioidenticalProgesterone" = "Prometrium/Progestérone Bio-identique";
+"other" = "Autres";
+"antiphlogistic" = "Antiphlogistique";
+"tylenolAcetaminophen" = "Tylenol/Acétaminophène";
+"advilIbuprofen" = "Somnifères/Ibuprofène";
+"aleveNaproxen" = "Aleve/Naproxène";
+"midol" = "Analgésiques";
+"tums" = "Antiacides";
+"heartburnMedication" = "Médicaments contre les Brûlures d'estomac";
+"allergyMedication" = "Médicaments contre les Allergies";
+"mucinex" = "Expectorant";
+"antibiotics" = "Antibiotiques";
+"coughMedicine" = "Antitussifs";
+"sleepMedicine" = "Médecine du Sommeil";
+"decongestant" = "Décongestionnant";
+"ovidrel_HCG" = "Ovidrell/HCG";
+"medroxyprogesterone_Provera" = "Médroxyprogestérone/Provera";
+"miscarriageBleeding" = "Saignement de fausse couche";
+"moods" = "Humeurs";
+"goodMood" = "Bonne Humeur";
+"badMood" = "Mauvaise Humeur";
+"weepy_Tearful" = "Pleurer/Larmes";
+"energetic" = "Énergique";
+"tired" = "Fatigué";
+"irritable" = "Irritable";
+"anxious" = "Anxieux";
+"obsessiveThoughts" = "Obstiné";
+"apathetic" = "Apathique";
+"focused" = "Focalisé";
+"inLove" = "Amoureux";
+"spotting" = "Spotting";
+"notes" = "Note";
+"saveData" = "Sauvegarder des données?";
+"changesDailyLogTips" = "Vous avez apporté des modifications au journal quotidien. Confirmez-vous ces changements?";
+"noDiscard" = "Non. Jetez-les.";
+"yesSave" = "Oui. Enregistrer.";
+"save" = "Enregistrer";
+"done" = "Fait";
+"howtoGetPregnantFast" = "Comment devenir enceinte rapidement?";
+"background" = "Contexte";
+"tip_s" = "Conseil(s)";
+"sex" = "Sexe";
+"fertileWindowDescription" = "Les cinq jours précédant l'ovulation et le jour de l'ovulation constituent votre «fenêtre fertile». C'est le meilleur moment pour essayer de concevoir.
+ 
+ Faites l'amour le jour du pic de LH, la veille de ce jour, et le jour de l'ovulation.";
+"bBT" = "TBC";
+"bBTDescription" = "La température basale du corps (TBC) est la température de votre corps au repos et ne peut être prise avec précision qu'au réveil. La TBC augmente après l'ovulation, en raison de l'augmentation de la progestérone libérée par le corps jaune après l'ovulation. L'ovulation peut être détectée sur un graphique de la TBC le jour ou les deux jours précédant l'augmentation de la TBC.
+ 
+ La température à la même heure chaque jour AVANT de vous lever.";
+"ovulationTests" = "Tests d'ovulation";
+"ovulationTestsDescription" = "Les tests d'ovulation détectent la concentration de l'hormone lutéinisante (LH) dans l'urine. Le test donne normalement un résultat positif lorsque la poussée et le pic de LH se produisent. Si une ligne de test est aussi sombre ou plus sombre que la ligne de contrôle, le résultat est considéré comme «positif», et l'appli commencera à rechercher votre poussée lorsque vous vous en approcherez. Un résultat positif ne signifie pas toujours que vous allez ovuler dans les 24-48 heures, donc un outil de confirmation de l'ovulation comme la TBC peut être une excellente combinaison avec les tests d'ovulation.
+ 
+ Essayez de faire le test à n'importe quel moment entre 11h00 et 16h00, car c'est à ce moment que le niveau de LH a tendance à être le plus élevé, et vous aurez moins de chances de manquer le pic.";
+"cervicalMucus_CM" = "Glaire Cervicale（GC）";
+"cMDescription" = "La glaire cervicale change tout au long du mois, en fonction des hormones présentes. Lorsque votre corps s'approche de sa période de fertilité, les niveaux d'œstrogènes augmentent pour déclencher l'ovulation. Avec cette augmentation d'œstrogènes, votre glaire cervicale change également ! La glaire cervicale sèche est infertile, la glaire humide est potentiellement fertile et le blanc d'œuf (BDO) est idéal pour la fertilité.
+ 
+ Il se peut que vous soyez déjà en train de suivre la glaire cervicale, que vous remarquiez une consistance de blanc d'œuf cru, crémeuse, collante ou sèche au toucher de vos doigts. Cela nous donne des indices essentiels sur notre fenêtre de fertilité ; la glaire cervicale blanche d'œuf qui est présente juste avant l'ovulation est notre meilleur indicateur de fertilité.";
+"cervicalPositionFerning" = "Position & Fouille Cervical";
+"cervicalPositionFerningDescription" = "Votre col de l'utérus change de position et devient plus ouvert/fermé tout au long de votre cycle menstruel. En ce qui concerne la position du col de l'utérus, le modèle fertile idéal semble être un col souple (comme la pomme de votre joue), en position haute, avec un orifice ouvert.
+ 
+ Lorsque vous commencez à observer le col de l'utérus, soyez patiente et concentrez-vous sur la comparaison de chaque jour avec le jour précédent. Il faut parfois quelques cycles pour apprendre à connaître le col de l'utérus !";
+"sleep" = "Sommeil";
+"sleepDescription" = "La qualité de votre sommeil a un impact sur votre fertilité. Un manque de sommeil peut perturber votre cycle menstruel et votre ovulation.
+ 
+ Il est préférable de dormir au moins 7 heures par nuit pour améliorer vos chances de tomber enceinte.";
+"weight" = "Poids";
+"weightDescription" = "L'obésité ou l'insuffisance pondérale peuvent affecter votre fertilité. Vous avez plus de chances de tomber enceinte si vous avez un poids sain. Les femmes en surpoids sont plus susceptibles d'avoir des cycles menstruels irréguliers, ce qui réduit le taux de grossesse. Une petite perte de poids peut améliorer la fertilité et la santé de la grossesse.
+ 
+ Une alimentation saine et équilibrée et l'exercice physique régulier sont des approches judicieuses pour stimuler la fertilité et améliorer vos chances de tomber enceinte. Consultez votre professionnel de la santé si vous souhaitez obtenir des conseils et de l'aide pour atteindre votre poids idéal.";
+"others" = "Autres";
+"othersDescription" = "De nombreux facteurs liés au mode de vie, tels que la nutrition, l'exercice, les voyages et les blessures, ont une incidence sur votre fertilité.
+ 
+ Il est bon d'avoir une alimentation saine, de faire régulièrement de l'exercice, de pratiquer la respiration et les étirements, et de toujours s'informer sur la grossesse.";
+"learnMore" = "En savoir plus";

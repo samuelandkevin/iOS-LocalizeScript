@@ -1,0 +1,154 @@
+"highSexDrive" = "Alto Impulso Sexual";
+"lowSexDrive" = "Bajo Impulso Sexual";
+"withDrawal" = "Retirada";
+"sex" = "Sexo";
+"noSex" = "No Hay Relaciones Sexuales";
+"unprotected" = "Desprotegido";
+"protected" = "Protegido";
+"cervicalMucus" = "Mucosa Cervical（MC）";
+"condition" = "Condición";
+"dL_Light" = "Leve";
+"dL_Medium" = "Medio";
+"dL_Heavy" = "Pesado";
+"cervicalPositionFerning" = "Posición Cervical & Ferning";
+"dL_Height" = "Altura";
+"dL_Low" = "Bajo";
+"dL_High" = "Alto";
+"openness" = "Apertura";
+"closed" = "Cerrado";
+"slightlyOpen" = "Ligeramente Abierto";
+"open" = "Abrir";
+"texture" = "Textura";
+"soft" = "Suave";
+"medium" = "Medio";
+"firm" = "Rígido";
+"aidedInsemination" = "Inseminación Asistida";
+"ultrasound" = "Ultrasonido";
+"sleep" = "Dormir";
+"less6Hours" = "＜6 horas";
+"between6And8Hours" = "6~8 horas";
+"between8And10Hours" = "8~10 horas";
+"moreThan10Hours" = "＞10 horas";
+"kG" = "KG";
+"lB" = "LB";
+"kgs" = "kgs";
+"lbs" = "lbs";
+"others" = "Otros";
+"travel" = "Viaje";
+"stress" = "Estrés";
+"injury" = "Lesión";
+"illness" = "Enfermedad";
+"athleticEvent" = "Evento Atlético";
+"alcohol" = "Alcohol";
+"physicalActivity" = "Ejercicio Físico";
+"cardio" = "Aeróbicos";
+"weightLifting" = "Levantamiento de Pesas";
+"spin" = "Rotación";
+"yoga" = "Yoga";
+"stretching" = "Estiramiento";
+"breathwork" = "Respiración";
+"durationOfExercise" = "Duración del Ejercicio";
+"between0And15Mins" = "0-15 minutos";
+"moreThan60Mins" = "> 60 minutos";
+"otherPhysiologicalSignals" = "Otras Señales Fisiológicas";
+"prenatal" = "Prenatal";
+"fishOil" = "Aceite de Pescado";
+"probiotic" = "Probiótico";
+"symptoms" = "Síntomas";
+"common" = "Común";
+"cravings" = "Antojos";
+"appetiteDecreased" = "Disminución del Apetito";
+"appetiteIncreased" = "Aumento del Apetito";
+"migraine" = "Migraña";
+"body" = "Cuerpo";
+"pelvicPain" = "Dolor Pélvico";
+"sick" = "Enferma";
+"vaginalPain" = "Dolor Vaginal";
+"ovulationPain" = "Dolor de Ovulación";
+"painDuringSex" = "Dolor Durante el Sexo";
+"belly" = "Abdomen";
+"gassy" = "Gaseoso";
+"frequentUrination" = "Orinar con Frecuencia";
+"nO" = "NO";
+"mild" = "Leve";
+"moderate" = "Moderado";
+"severe" = "Severo";
+"fertilityMedication" = "Medicamentos para la Fertilidad";
+"metformin" = "Metformina";
+"letrozole_Femara" = "Letrozol/Femara";
+"clomipheneCitrate_Clomid" = "Citrato de Clomifeno/Clomid";
+"babyAspirin" = "Aspirina para Bebés";
+"prometrium_BioidenticalProgesterone" = "Prometrio/Progesterona Bioidéntica";
+"other" = "Otros";
+"antiphlogistic" = "Antiflogístico";
+"tylenolAcetaminophen" = "Tylenol/Paracetamol";
+"advilIbuprofen" = "Pastillas para Dormir/Ibuprofeno";
+"aleveNaproxen" = "Aleve/Naproxeno";
+"midol" = "Analgésicos";
+"tums" = "Antiácidos";
+"heartburnMedication" = "Medicamentos para la Acidez Estomacal";
+"allergyMedication" = "Medicamentos para la Alergia";
+"mucinex" = "Expectorante";
+"antibiotics" = "Antibióticos";
+"coughMedicine" = "Antitusivos";
+"sleepMedicine" = "Somnífero";
+"decongestant" = "Descongestionante";
+"ovidrel_HCG" = "Ovidrel/HCG";
+"medroxyprogesterone_Provera" = "Medroxiprogesterona/Provera";
+"miscarriageBleeding" = "Hemorragia por Aborto Espontáneo";
+"moods" = "Humor";
+"goodMood" = "Buen Humor";
+"badMood" = "Mal Humor";
+"weepy_Tearful" = "Llorón/Lagrimeo";
+"energetic" = "Energético";
+"tired" = "Cansado";
+"irritable" = "Irritable";
+"anxious" = "Ansioso";
+"obsessiveThoughts" = "Pensamientos obsesivos";
+"apathetic" = "Apático";
+"focused" = "Enfocado";
+"inLove" = "En el Amor";
+"spotting" = "Spotting";
+"notes" = "Notas";
+"saveData" = "¿Guardar datos?";
+"changesDailyLogTips" = "Ha hecho cambios en el registro diario. ¿Confirma estos cambios?";
+"noDiscard" = "No. Deséchelos.";
+"yesSave" = "Sí. Guardar.";
+"save" = "Guardar";
+"done" = "Hecho";
+"howtoGetPregnantFast" = "¿Cómo quedar embarazada rápidamente?";
+"background" = "Antecedentes";
+"tip_s" = "Consejo(s)";
+"sex" = "Sexo";
+"fertileWindowDescription" = "Los cinco días anteriores a la ovulación y el día de la ovulación son su "ventana fértil". Este es el mejor momento para tratar de concebir.
+ 
+ Tengan relaciones sexuales en el día de pico de LH, el día anterior a ese día y el día de la ovulación.";
+"bBT" = "TBC";
+"bBTDescription" = "La Temperatura Corporal Basal (TBC) es la temperatura del cuerpo en reposo y sólo puede tomarse con precisión al despertar. La TBC aumenta después de la ovulación, debido al aumento de la progesterona liberada por el cuerpo lúteo después de la ovulación. La ovulación puede ser detectada en un gráfico de TBC el día o dos días antes del aumento de la TBC.
+ 
+ Tome la temperatura a la misma hora cada día ANTES de que te levantes.";
+"ovulationTests" = "Pruebas de Ovulación";
+"ovulationTestsDescription" = "Los exámenes de ovulación detectan la concentración de hormona luteinizante (LH) en la orina. La prueba normalmente muestra un resultado positivo cuando se produce el aumento y el pico de LH. Si una línea de prueba es tan oscura o más oscura que la línea de control, se considera un resultado "positivo", y la aplicación comenzará a buscar su aumento a medida que se acerque a esto. Un resultado positivo no siempre significa que va a ovular en 24-48 horas, por lo que una herramienta de confirmación de ovulación como la TBC puede ser un gran complemento para las pruebas de ovulación.
+ 
+ Apunta a la prueba en cualquier momento de 11:00AM - 4:00PM, ya que es cuando el nivel de LH tiende a ser más alto, y será menos probable que te pierdas el pico.";
+"cervicalMucus_CM" = "Mucosa Cervical (MC)";
+"cMDescription" = "El moco cervical cambia a lo largo del mes, dependiendo de las hormonas presentes. Cuando tu cuerpo se acerca a su ventana fértil, los niveles de estrógeno se disparan para desencadenar la ovulación. Con este aumento de estrógeno, el moco cervical también cambia. Lo seco es infértil, lo húmedo es potencialmente fértil, y la clara de huevo del moco cervical (CHMC) es ideal para la fertilidad.
+ 
+ Puede que ya estés rastreando el moco cervical, notando la consistencia de la clara de huevo cruda, cremosa, pegajosa o seca por la sensación de tus dedos. Esto nos da pistas esenciales para nuestra ventana fértil; el fluido cervical de la clara de huevo que está presente justo antes de la ovulación es nuestro mejor indicador de fertilidad.";
+"cervicalPositionFerning" = "Posición & Ferning Cervical";
+"cervicalPositionFerningDescription" = "El cuello del útero cambia de posición y se vuelve más abierto/cerrado a lo largo del ciclo menstrual. Cuando se trata de la posición cervical, el patrón fértil ideal parece ser un cuello uterino suave (como la manzana de la mejilla), de alta posición y con el orificio cervical abierto.
+ 
+ Cuando empiece a observar el cuello del útero, sea paciente y concéntrese en comparar cada día con el anterior. ¡Puede que lleve unos cuantos ciclos conocer el cuello del útero!";
+"sleep" = "Dormir";
+"sleepDescription" = "La calidad de tu sueño tiene un impacto en tu fertilidad. La falta de sueño puede interrumpir su ciclo menstrual y la ovulación.
+ 
+ Es mejor dormir al menos 7 horas por noche para mejorar las posibilidades de quedar embarazada.";
+"weight" = "Peso";
+"weightDescription" = "La obesidad o el bajo peso pueden afectar a la fertilidad. Es más probable que te quedes embarazada si tienes un peso saludable. Las mujeres con sobrepeso son más propensas a tener ciclos menstruales irregulares, lo que reduce la tasa de embarazo. Una pequeña pérdida de peso puede mejorar la fertilidad y la salud del embarazo.
+ 
+ Una dieta sana y equilibrada y el ejercicio regular son enfoques acertados para aumentar la fertilidad y mejorar las posibilidades de quedar embarazada. Hable con su profesional de la salud para que le aconseje y le ayude a alcanzar su peso ideal.";
+"others" = "Otros";
+"othersDescription" = "Muchos factores del estilo de vida, como la nutrición, el ejercicio, los viajes y las lesiones, afectan a su fertilidad.
+ 
+ Es bueno seguir una dieta saludable, hacer ejercicio regularmente, respirar y estirarse, y siempre aprender sobre el embarazo.";
+"learnMore" = "Saber más";

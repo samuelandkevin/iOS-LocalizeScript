@@ -1,0 +1,154 @@
+"highSexDrive" = "Hoher Sexualtrieb";
+"lowSexDrive" = "Niedriger Sexualtrieb";
+"withDrawal" = "Interruptus";
+"sex" = "Sex";
+"noSex" = "Kein Geschlechtsverkehr";
+"unprotected" = "Ungeschützt";
+"protected" = "Geschützt";
+"cervicalMucus" = "Zervixschleim (ZS)";
+"condition" = "Zustand";
+"dL_Light" = "Leicht";
+"dL_Medium" = "Mittel";
+"dL_Heavy" = "Schwer";
+"cervicalPositionFerning" = "Zervikale Position & Farnkraut";
+"dL_Height" = "Größe";
+"dL_Low" = "Niedrig";
+"dL_High" = "Hoch";
+"openness" = "Offenheit";
+"closed" = "Geschlossen";
+"slightlyOpen" = "Leicht geöffnet";
+"open" = "Offen";
+"texture" = "Struktur";
+"soft" = "Weich";
+"medium" = "Mittel";
+"firm" = "Straff";
+"aidedInsemination" = "Unterstützte Insemination";
+"ultrasound" = "Ultraschall";
+"sleep" = "Schlafen";
+"less6Hours" = "＜6 Stunden";
+"between6And8Hours" = "6~8 Stunden";
+"between8And10Hours" = "8~10 Stunden";
+"moreThan10Hours" = "＞10 Stunden";
+"kG" = "KG";
+"lB" = "LB";
+"kgs" = "kgs";
+"lbs" = "lbs";
+"others" = "Weitere";
+"travel" = "Reisen";
+"stress" = "Stress";
+"injury" = "Verletzung";
+"illness" = "Krankheit";
+"athleticEvent" = "Athletische Veranstaltung";
+"alcohol" = "Alkohol";
+"physicalActivity" = "Körperliche Aktivität";
+"cardio" = "Cardio";
+"weightLifting" = "Gewichtheben";
+"spin" = "Spin";
+"yoga" = "Yoga";
+"stretching" = "Stretchen";
+"breathwork" = "Atemarbeit";
+"durationOfExercise" = "Dauer der Übung";
+"between0And15Mins" = "0-15 Min";
+"moreThan60Mins" = "> 60 Min";
+"otherPhysiologicalSignals" = "Weitere körperliche Signale";
+"prenatal" = "Pränatal";
+"fishOil" = "Fischöl";
+"probiotic" = "Probiotisch";
+"symptoms" = "Symptome";
+"common" = "Üblich";
+"cravings" = "Heißhunger";
+"appetiteDecreased" = "Geringer Appetit";
+"appetiteIncreased" = "Gesteigerter Appetit";
+"migraine" = "Migräne";
+"body" = "Körper";
+"pelvicPain" = "Beckenschmerzen";
+"sick" = "Krank";
+"vaginalPain" = "Vaginaler Schmerz";
+"ovulationPain" = "Ovulationsschmerz";
+"painDuringSex" = "Schmerz während des Geschlechtverkehrs";
+"belly" = "Bauch";
+"gassy" = "Gasartig";
+"frequentUrination" = "Häufiges urinieren";
+"nO" = "NEIN";
+"mild" = "Mild";
+"moderate" = "Gemäßigt";
+"severe" = "Stark";
+"fertilityMedication" = "Fruchbarkeits-Medikamente";
+"metformin" = "Metformin";
+"letrozole_Femara" = "Letrozol/Femara";
+"clomipheneCitrate_Clomid" = "Clomiphen-Zitrat/Clomid";
+"babyAspirin" = "Baby Aspirin";
+"prometrium_BioidenticalProgesterone" = "Prometrium/Bioidentisches Progesteron";
+"other" = "Weitere";
+"antiphlogistic" = "Antiphlogistikum";
+"tylenolAcetaminophen" = "Tylenol/Acetaminophen";
+"advilIbuprofen" = "Advil/Ibuprofen";
+"aleveNaproxen" = "Aleve/Naproxen";
+"midol" = "Midol";
+"tums" = "Tums";
+"heartburnMedication" = "Medikamente gegen Sodbrennen";
+"allergyMedication" = "Medikamente gegen Allergien";
+"mucinex" = "Mucinex";
+"antibiotics" = "Antibiotika";
+"coughMedicine" = "Hustenmedizin";
+"sleepMedicine" = "Schlaftabletten";
+"decongestant" = "Dekongestivum";
+"ovidrel_HCG" = "Ovidrel/HCG";
+"medroxyprogesterone_Provera" = "Medroxyprogesterone/Provera";
+"miscarriageBleeding" = "Blutung bei Fehlgeburt";
+"moods" = "Stimmungen";
+"goodMood" = "Gute Laune";
+"badMood" = "Schlechte Laune";
+"weepy_Tearful" = "Weinerlich/Tränenreich";
+"energetic" = "Energisch";
+"tired" = "Müde";
+"irritable" = "Reizbar";
+"anxious" = "Angespannt";
+"obsessiveThoughts" = "Zwanghafte Gedanken";
+"apathetic" = "Teilnahmslos";
+"focused" = "Konzentriert";
+"inLove" = "Verliebt";
+"spotting" = "Schmierblutung";
+"notes" = "Notizen";
+"saveData" = "Daten speichern?";
+"changesDailyLogTips" = "Sie haben Veränderungen in den täglichen Aufzeichnungen vorgenommen. Bestätigen Sie diese Veränderungen?";
+"noDiscard" = "Nein. Verwerfen.";
+"yesSave" = "Ja. Speichern.";
+"save" = "Speichern";
+"done" = "Fertig";
+"howtoGetPregnantFast" = "Wie werde ich schnell schwanger?";
+"background" = "Hintergrund";
+"tip_s" = "Tipp(s)";
+"sex" = "Sex";
+"fertileWindowDescription" = "Die fünf Tage vor dem Eisprung und der Tag des Eisprung sind Ihr "Fruchtbarkeitsfenster". Die beste Zeit für Empfängnis ist während dieser Zeit.
+ 
+ Haben Sie an dem LH Spitzen Tag Sex, den Tag davor und am Eisprungtag.";
+"bBT" = "BBT";
+"bBTDescription" = "Die Basaltemperatur ist Ihre Körpertemperatur in Ruhezeiten und kann nur direkt nach dem Aufwachen am genausten gemessen werden. Die Basaltemperatur erhöht sich nach dem Eisprung, aufgrund des Progesteron, das vom Corpus-Luteum-Hormon nach dem Eisprung freigesetzt wird. Der Eisprung kann auf einer Basalkörpertemperaturtabelle als der Tag oder zwei Tage zuvor erkannt werden, ehe die Basalkörpertemperatur ansteigt.
+ 
+ Messen Sie die Temperatur immer zur selben Zeit EHE sie aufstehen.";
+"ovulationTests" = "Ovulationstests";
+"ovulationTestsDescription" = "Ovulationstests weisen die Konzentration des luteinisierenden Hormons (LH) in Ihrem Urin nach. Der Test zeigt normalerweise ein positives Ergebnis, wenn der LH-Anstieg und der Spitzenwert auftreten. Wenn eine Testlinie genauso dunkel oder dunkler als die Kontrolllinie ist, gilt sie als "positives" Ergebnis, und die App beginnt mit der Suche nach Ihrem Anstieg, sobald Sie sich diesem nähern. Ein positives Ergebnis bedeutet nicht immer, dass Sie in 24-48 Stunden Ihren Eisprung haben werden, daher kann ein Ovulationsbestätigungs-Tool wie BBT eine gute Kombination mit Ovulationstests sein.
+ 
+ Versuchen Sie immer am frühen Nachmittag bis zum frühen Abend, zwischen 11:00 Uhr bis 16:00 Uhr zu testen, denn dann ist der LH-Level am Höchsten und die Wahrscheinlichkeit den Höhepunkt zu verpassen, am geringsten.";
+"cervicalMucus_CM" = "Zervixschleim (ZS)";
+"cMDescription" = "Der Zervixschleim verändert sich im Laufe des Monats, abhängig von den vorhandenen Hormonen. Wenn sich Ihr Körper seinem fruchtbaren Fenster nähert, steigt der Östrogenspiegel sprunghaft an, um den Eisprung auszulösen. Mit diesem Anstieg des Östrogens verändert sich auch Ihr Zervixschleim! Trocken ist unfruchtbar, feucht ist potentiell fruchtbar, und Eiklar-Zervixschleim (EWCM) ist ideal für die Fruchtbarkeit.
+ 
+ Möglicherweise verfolgen Sie bereits den Zervixschleim, wobei die Konsistenz von rohem Eiweiß, das cremig, klebrig oder trocken ist, am Gefühl Ihrer Finger zu erkennen ist. Dies gibt uns wesentliche Hinweise auf unser fruchtbares Fenster; die eiweiße farbene Zervixflüssigkeit, die kurz vor dem Eisprung vorhanden ist, ist unser bester Indikator für die Fruchtbarkeit.";
+"cervicalPositionFerning" = "Zervikale Position & Farnkraut";
+"cervicalPositionFerningDescription" = "Ihr Muttermund verändert die Position und wird offener/geschlossener, während Ihres Menstruationszyklus. Wenn es um die Muttermundposition geht, ist das ideale fruchtbare Muster eher weich (wie ein Apfel an Ihrer Wange), hoch positionierter Muttermund mit einem offenen os.
+ 
+ Wenn Sie zum ersten Mal Ihren Muttermund untersuchen, seien Sie geduldig und konzentrieren Sie sich darauf, jeden Tag mit dem vorherigen Tag zu vergleichen. Es kann manchmal ein paar Zyklen dauern, um Ihren Muttermund kennenzulernen.";
+"sleep" = "Schlaf";
+"sleepDescription" = "Ihre Schlafqualität hat einen Einfluss auf Ihre Fruchtbarkeit. Wenn Sie nicht genug Schlaf bekommen, kann das Ihren Menstruationszyklus und den Eisprung unterbrechen.
+ 
+ Es ist besser, mindestens 7 Stunden pro Nacht zu schlafen, um Ihre Chancen schwanger zu werden, zu verbessern.";
+"weight" = "Gewicht";
+"weightDescription" = "Übergewichtig oder untergewichtig zu sein kann Ihre Fruchtbarkeit beeinflussen. Sie haben eine größere Chance schwanger zu werden, wenn Sie ein gesundes Gewicht haben. Übergewichtige Frauen haben eher einen unregelmäßigen Zyklus was die Schwangerschaftschance reduziert. Ein kleiner Gewichtsverlust kann die Fruchtbarkeit und die Gesundheit während der Schwangerschaft verbessern.
+ 
+ Eine gesunde, ausgeglichene Diät und regelmäßiger Sport sind gute Annäherungen, um die Fruchtbarkeit zu verbessern und Ihre Chancen zu verbessern, schwanger zu werden. Beraten Sie sich mit Ihrem Arzt, wenn Sie Beratung und Hilfe brauchen, um Ihr Idealgewicht zu erreichen.";
+"others" = "Weitere";
+"othersDescription" = "Viele Lebensstile wie Ernährung, Sport, Reisen und Verletzungen beeinflussen Ihre Fruchtbarkeit. 
+ 
+  Es ist gut eine gesunde Ernährung zu sich zu nehmen, regelmäßig Sport zu treiben, Atemübungen und Stretch Übungen zu machen und sich immer gut über eine Schwangerschaft zu informieren.";
+"learnMore" = "Mehr anzeigen";
