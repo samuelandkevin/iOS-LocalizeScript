@@ -53,11 +53,14 @@ def main(argv):
                     # value = colValues_English[indexRow]
 
                 key = colKeys[indexRow]
-                keyValue = '"' + key + '"' + ' = ' + '"' + value + '"' + ';\n'
-                list.append(keyValue)
-
                 #key2 （key的首字母强制改为大写。比如key:warmlyTips，通过这个方法格式化为：Localizable_WarmlyTips）
                 key2 = 'Localizable_' + key.replace(key[0],key[0].capitalize())
+                
+                
+                keyValue = '"' + key2 + '"' + ' = ' + '"' + value + '"' + ';\n'
+                list.append(keyValue)
+
+               
                 keyValue2 = 'static let ' + key2 +  ' = ' + '"' + key2 + '"' + '\n'
                 list2.append(keyValue2)
 
